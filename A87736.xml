@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pathway to saving knowledge, or, A description of true wisdom seting [sic] forth the great worth and incomparable excellency thereof : with directions how a man may attain to the same, and of foolish and ignorant, become wise and prudent, even wise to salvation.</title>
+            <author>Killiray, Matthew.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87736</idno><idno type="EEBO-CITATION">42475078</idno>
+  <idno type="VID">151206</idno>
+  <idno type="EEBO-PROQUEST">2240894302</idno>
+  
+            <idno type="STC">Wing K475C</idno>
+            <idno type="STC">ESTC R43670</idno>
+            <idno type="OCLC">42475078</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87736)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2249:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pathway to saving knowledge, or, A description of true wisdom seting [sic] forth the great worth and incomparable excellency thereof : with directions how a man may attain to the same, and of foolish and ignorant, become wise and prudent, even wise to salvation.</title>
+                  <author>Killiray, Matthew.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, tightly bound, and with print show-through.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151206:1"/>
+            <p>THE PATHWAY <hi>To Saving Knowledge:</hi> OR, A Description of True Wisdom.</p>
+            <p>Seting forth the great worth and Incomparable Ex<g ref="char:EOLhyphen"/>cellency thereof.</p>
+            <p>WITH Directions how a Man may attain to the same.</p>
+            <p>And of Foolish and Ignorant, become Wise and Prudent, <hi>Even Wise to Salvation.</hi>
+            </p>
+            <p>Very seasonable for these Times.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. Thackeray,</hi> at the sign of the Angel in <hi>Duck-lane.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151206:2"/>
+            <pb facs="tcp:151206:2"/>
+            <head>THE Pathway to Saving <hi>KNOWLEDGE:</hi> OR, A Description OF TRUE WISDOM.</head>
+            <p>KNowledge is so Fair a Vir<g ref="char:EOLhyphen"/>gin, that every clear eye is in Love with her; it is a Pearl despised of none but Swine. Wisdom hath ever carried that shew of Excellency with it, that not onely the good have highly affect<g ref="char:EOLhyphen"/>ed it (as <hi>Moses,</hi> who Studied for Wis<g ref="char:EOLhyphen"/>dom:
+<pb facs="tcp:151206:3"/> and <hi>Solomon,</hi> who prayed for Wisdom; and the Quéen of <hi>Sheba,</hi> who traveled for Wisdom: and <hi>David,</hi> who to get Wisdom, made the Word his Counsellour, hated every False way, and was a man after Gods own Heart) but the very wicked have La<g ref="char:EOLhyphen"/>boured for it, who are ashamed of other Vertues, they that care not for one Dram of Goodnesse, would yet have a full scale of Knowledge, as O the plea<g ref="char:EOLhyphen"/>sure that rational Men take in it! A<g ref="char:EOLhyphen"/>mongst all the Trees in the Garden, none so pleaseth them as the Tree of Knowledge, <hi>Pro.</hi> 2. 3. and 10. 14. <hi>Phil.</hi> 3. 8. And as wisdome is excellent above all, so it is affected of all, as Oyl was both of the Wise and Foolish Virgins. It hath been a mark that every Man hath shot at ever since. <hi>Eve</hi> sought to be as Wise as her Maker, but as a hun<g ref="char:EOLhyphen"/>dred shoot for one that hit the White, so an hundred aim at Wisdome, for one y<seg rend="sup">e</seg> lights upon it, <hi>Eccles.</hi> 7. 28. Because they are mistaken in y<seg rend="sup">e</seg> thing, for as <hi>Jacob</hi> in y<seg rend="sup">e</seg> dark mistook <hi>Leah</hi> for <hi>Rachel,</hi> so many &amp; blind soul takes y<seg rend="sup">t</seg> to be Wisdome, which is <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like <hi>Eve,</hi> who thought it wisdome to eat the forbidden Fruit, and <hi>Absolom</hi>
+               <pb facs="tcp:151206:3"/> who thought it Wisdome to lye with his Fathers Concubines in the sight of all the People, and the false Steward who thought it wisdome to deceive his Ma<g ref="char:EOLhyphen"/>ster, and so of <hi>Josephs</hi> Brethren, of <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> and his deep Counsellours: of <hi>A<g ref="char:EOLhyphen"/>chitophel,</hi> of <hi>Herod,</hi> of the <hi>Pharisees</hi> in their project to destroy Iesus, and many the like; all these thought they did wise<g ref="char:EOLhyphen"/>ly, but they were mistaken, and their projects proved foolish, and turned to their own ruine: For indeed the best knowledge is about the best things, and the perfection of all knowledge to know God and our selves: Knowledge and Learning saith <hi>Aristotle</hi> consisteth not so much in the Quantity as in the quality, nor in the the greatnesse but in the good<g ref="char:EOLhyphen"/>nesse of it. A little Gold we know is more worth then much Drosse, a little Diamond then a rocky Mountain: so one Drop of Wisdome guided by the fear of God, one spark of Spiritual experi<g ref="char:EOLhyphen"/>mental and saving Knowledge is more worth then all humane Wisdome, and Learning, yea one scruple of holinesse, one Dram of Faith, one Grain of grace, is more worth than many pounds of na<g ref="char:EOLhyphen"/>tural
+<pb facs="tcp:151206:4"/> parts, and indeed Faith and Ho<g ref="char:EOLhyphen"/>linesse are the Nerves and Sinews, yea the soul of Saving Knowledge: what saith <hi>Aristotle,</hi> No more than the know<g ref="char:EOLhyphen"/>ledge of goodnesse maketh one to be na<g ref="char:EOLhyphen"/>med a good man, no more doth the Knowledge of Wisdome alone cause any person properly to be called a Wise man: Saving Knowledge of the Truth worketh a love of the Truth Known: yea it is an uniform consent of Knowledge and Action. He onely is wise for his own Soul. He whose Conscience pulleth all, he hears and reads to his Heart, and his Heart to God, who turneth his Knowledge to Faith, his Faith to féel<g ref="char:EOLhyphen"/>ing, and all to walk worthy of his Re<g ref="char:EOLhyphen"/>deemer. He that subdues his sensual desires and appetite to the noble facul<g ref="char:EOLhyphen"/>ties of Reason and Vnderstanding, and makes that understanding of his to serve him, by whom it is and doth un<g ref="char:EOLhyphen"/>derstand: he that subdues his Lusts to his Will, submits his will to reason, his reason to faith, his faith, his reason, his Will, himself to the Will of God, this is practical experimental and Saving Knowledge, to which the other is but a
+<pb facs="tcp:151206:4"/> bare Name or Title. A competent e<g ref="char:EOLhyphen"/>state (we know) well husbanded is bet<g ref="char:EOLhyphen"/>ter than a vast patrimony neglected, ne<g ref="char:EOLhyphen"/>ver any meer Man since the first, knew so much as <hi>Solomon,</hi> many that have known lesse, have had more command of themselves. Alas! they are not al<g ref="char:EOLhyphen"/>ways the wisest that know most, for none more wise and learned in the Worlds account than the Scribes and Pharisees, yet Christ calls them four times Blind, and twice Fools in one Chapter, <hi>Mat.</hi> 23. And the like of <hi>Ba<g ref="char:EOLhyphen"/>laam, 2 Pet.</hi> 2. 16. Who had such a pro<g ref="char:EOLhyphen"/>phetical knowledge, that scarce any of the Prophets had a clearer Revelation of the Messiah to come, and the same may be of <hi>Judas</hi> and <hi>Achitophel,</hi> for many y<seg rend="sup">t</seg> know a great deal lesse are far wiser, yea one poor crucified Thief be<g ref="char:EOLhyphen"/>ing converted in an hours time, had more true wisdome and knowledge in<g ref="char:EOLhyphen"/>fused into him, than had all the Rulers, Scribes and Pharisees: It is very ob<g ref="char:EOLhyphen"/>serveable what the High Priest told the council when they were set to condemn Christ, ye know nothing at all, he spake truer than he meant it, for if we know
+<pb facs="tcp:151206:5"/> not the Lord Iesus, our knowledge is ei<g ref="char:EOLhyphen"/>ther nothing or nothing worth, rightly a man knows no more than what he pra<g ref="char:EOLhyphen"/>ctiseth. It is said of Christ, he knew no sin, 2 <hi>Cor.</hi> 5. 21. Because he did no sin. In which sence he knows no good that doth no good. These things if ye know, saith our Saviour, Happy are ye if ye do them, <hi>John.</hi> 13. 17. And in <hi>Deut.</hi> 4. 6. Keep the Commandments of God and do them, for this is your Wisdome and Vnderstanding before God and man, what is the national sweetnesse of Ho<g ref="char:EOLhyphen"/>ney, to the experimental tast of it, it is one thing to know what riches are, and another thing to be Master of them, it is not the knowing but the possessing of them y<seg rend="sup">t</seg> makes rich: Many have a depth of Knowledge, and yet are not Soul-wise, have a library of Divinity in their Heads, not so much as the least Cate<g ref="char:EOLhyphen"/>chism in their Consciences, full Brains, empty Hearts: yea you shall hear a flood in the Tongue, when you cannot sée one Drop in the Life, insomuch that in the midst of so much light and means of Grace, there be few I fear that have the found and saving Knowledge of Ie<g ref="char:EOLhyphen"/>sus
+<pb facs="tcp:151206:5"/> Christ and him Crucified, which was the onely care and study of St. <hi>Paul, 1 Cor.</hi> 2. 2. And that I am not mistaken, the effect shews, for it Men knew either God or Christ they could not but love him, and loving him they would keep his Commandments, <hi>John</hi> 14. 15. For hereby saith St. <hi>John,</hi> it is manifest that we know him, if we kéep his Command<g ref="char:EOLhyphen"/>ments, <hi>John</hi> 2. 3. But he that saith I know him and yet keepeth not his com<g ref="char:EOLhyphen"/>mandments is a Lyar, and there is no Truth in him, <hi>vers.</hi> 4. What saith our Saviour? This is Life Eternal to know thee, the onely true God and Ie<g ref="char:EOLhyphen"/>sus Christ whom thou hast sent: But how shall a Man know whether he hath this knowledge? Answer. St. <hi>John</hi> tells you in these last Words mentioned, and so plainly that you cannot be deceived un<g ref="char:EOLhyphen"/>lesse you destre to deceive your own Soul. The Knowledge of God that saves us is more than a bare apprehen<g ref="char:EOLhyphen"/>sion of him, it knows his power, and therefore fears him, knows his justice, and therefore serves him, knows his Mercy and therefore trusts him, knows his Goodnesse and therefore Loves
+<pb facs="tcp:151206:6"/> him, &amp;c. For he that hath the Saving Knowledge of God and of Christ hath e<g ref="char:EOLhyphen"/>very Grace: There is a sweet corre<g ref="char:EOLhyphen"/>spondence between every one, where there is any one in truth, as in the Ge<g ref="char:EOLhyphen"/>neration the head is not without the bo<g ref="char:EOLhyphen"/>dy, nor the body without each Member, nor the Soul without its powers and fa<g ref="char:EOLhyphen"/>culties, so in the Regeneration, where there is any one Grace in Truth there is every one, 2 <hi>Cor.</hi> 5. 17. If you will see it in particulars read, <hi>Psal. 9. 10. Jer. 9. 24. John 4. 10. Job 42. 5. 6. 1 John</hi> 4. 6, 7. Which Scriptures shew that as feeling it inseparable to all the Or<g ref="char:EOLhyphen"/>gans of sence, the Eye sees and feels, the ear hears and feels, the Pallat tasts and feels, the Nostrils smell and feel, so Knowledge is involved in every Grace. Faith knows and believes, charity knows and loves, patience knows and suffers, Temperance knows and ab<g ref="char:EOLhyphen"/>stains, Humilitie knows and stoops, repentance knows and stoops, obedience knows and does, Confidence knows and rejoyceth, Hope knows and expects, Compassion knows and pities. Yea as there is a power of Water in every
+<pb facs="tcp:151206:6"/> thing that grows, it is fatnesse in the Olive, Sweetnesse in the Fig, Cheer<g ref="char:EOLhyphen"/>fulnesse in the Grape, Strength in the Oak, Tallnesse in the Cedar, Rednesse in the Rose, Whitenesse in the Lilly, &amp;c. So Knowledge is in the Hand, o<g ref="char:EOLhyphen"/>bedience in the Mouth, Benediction in the Knee, Humility in the Eye, Com<g ref="char:EOLhyphen"/>passion in the Heart, Charity in the whole Body, and Soul Piety. Alas! if men had the true Knowledge of Ie<g ref="char:EOLhyphen"/>sus Christ, it would disperse and dispel all the Black Clouds of their reigning sins in a Moment, as the Sun doth no soon<g ref="char:EOLhyphen"/>er shew his Face but the Darknesse va<g ref="char:EOLhyphen"/>nisheth, or as <hi>Cesar</hi> did no sooner lock upon his Enemies but they were gone: He cannot delight in Sin, nor dote up<g ref="char:EOLhyphen"/>on this World that knows Christ sa<g ref="char:EOLhyphen"/>vingly: Vertue is ordained a Wise for Knowledge, and where these two joyn, their will proceed from them a Noble Progeny, a Generation of good Works. Again, as the Water engendereth Ice, and the Ice again engendereth water, so Knowledge begets Righteousnesse, and Righteousnesse again begets Know<g ref="char:EOLhyphen"/>ledge: When <hi>Solomon</hi> would acquaint us
+<pb facs="tcp:151206:7"/> how to become Wise, he tells us that the fear of the Lord is the beginning of Wisdome, <hi>Prov.</hi> 1. 7. As if the first lesson to be Wise were to be Holy: If it be asked why the Natural Man perceiv<g ref="char:EOLhyphen"/>eth not the things of the Spirit of God, St. <hi>Paul</hi> answers he cannot know them because they are spiritually discernd, how should they discern them, that have not the Spirit, for though the outward Man receives the Elements and Ru<g ref="char:EOLhyphen"/>diments of Religion by Breeding and Education, yet his inward Man re<g ref="char:EOLhyphen"/>ceives them by heavenly Inspiration, 1 <hi>Cor. 2. 11, 12, 13. Mat. 16. 16, 17. Luk. 24. 45. Jo.</hi> 15. 15. And this alone is enough to prove that no Wicked Man is a Wise Man, for if God alone be the giver of it we may be sure that he will reveal his Secrets to none but such as he knows will improve their Knowledge to his Glory, and the good of others, even as the Husbandman will not cast his Seed but into Ground that will return him a good Harvest, <hi>Psal. 25. 14. Mark 4. 3, 4. 1 John 4. 7. Gen.</hi> 18. 17. A great many Men desire Knowledge, for no other end but to remove their ignor<g ref="char:EOLhyphen"/>ance,
+<pb facs="tcp:151206:7"/> as <hi>Pharaoh</hi> used <hi>Moses</hi> but to re<g ref="char:EOLhyphen"/>move the Plagues, othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s again study the Scriptures, and other good Books onely to make gain thereof, or to be the abler to dispute and discourse, as Boys go into the water only to play and padle there, not to wash and be clean, with <hi>Eve</hi> they highly desire the Tree of Know<g ref="char:EOLhyphen"/>ledge, but regard not the Tree of Life, for if we consider what Fruit or Effect doth the Knowledge of most Men pro<g ref="char:EOLhyphen"/>duce in them, except it be to inable them to dispute and discourse to increase wit, or to increase wealth, or to increase pride or perhaps to increase Atheism, and to make them the more able and cunning to argue against the Truth and power of Religion, is not the utmost of their aim to enrich, dignifie, and please them<g ref="char:EOLhyphen"/>selves, not once casting the Eye of their Souls at Gods Glory, their Neigh<g ref="char:EOLhyphen"/>bours good, or their own Salvation; is it not their Main Drift to purchase a great estate for them and theirs without either fear of God, regard of Men, or the discharge of their Duty, and calling, and for the most part of these men, if they may be thought great Rabies, déep
+<pb facs="tcp:151206:8"/> and profound schollars, this is the height of their ambition, though neither the Church be benefited, nor God be glorifi<g ref="char:EOLhyphen"/>ed by it; whereas they ought the contra<g ref="char:EOLhyphen"/>ry: for as the Grace of God is the Foun<g ref="char:EOLhyphen"/>tain from which our wisdom flows, so the Glory of God should be the Ocean to which it should run: yea, that God may be honoured with and by our wisdom, is the only end for which he gives us to be wise. Now they that are puft up with their knowledge, or do not part with their sins, shew that they never sought it for Gods Glory, and certainly if we séek not Gods Glory, in doing his work, he will give as no wages at the latter end. But for men to do no good with their gifts, is not all: yea, it were well if that were y<seg rend="sup">e</seg> worst, for not a few of them resemble <hi>Achitophel,</hi> &amp; <hi>Jonadab,</hi> who imployed their wit wick<g ref="char:EOLhyphen"/>edly, and do mischief instead of good with their wisdom, like <hi>Herod:</hi> whom you shall sée turning over the Bible, searching the Scriptures, examining the Prophets, but to what end and purpose? To know good, but to do evil: yea, y<seg rend="sup">e</seg> greatest evil under y<seg rend="sup">e</seg> sun, slay Christ in y<seg rend="sup">e</seg> Cradle: with many their Learning and knowledge is not for God, &amp; for <hi>Gideon,</hi> but for Antichrist, &amp; for
+<pb facs="tcp:151206:8"/>
+               <hi>Babylon,</hi> &amp; so of all other gifts: how many are the worse for them? as give <hi>Saul</hi> a Kingdom, and he will tirannize, give <hi>Na<g ref="char:EOLhyphen"/>bal</hi> plenty, &amp; he will be drunk: give <hi>Judas</hi> an Apostleship, and he will sell his Master for Money: let <hi>Sarmantus</hi> have a good wit he will exercise it in scoffing at Holiness: Briefly, how oft doth Wisdom without grace, prove like a fair estate in y<seg rend="sup">e</seg> hands of a Fool, which not seldom becomes the owners ruine, or <hi>Absaloms</hi> Hair, which was an Ornament wherewith he hanged himself: so that wisdom without grace, is but a cuning way of undoing our selves: at last, when our knowledge makes us prouder, not better: more rebellious, not more serviceable: as it is in <hi>Isa. 47. 10. Thy Wisdom &amp; thy Knowledge, they have caused thee to err,</hi> &amp; very often this falls out: that as the best soyl usually yeildeth the worst Ayr, so without grace there is nothing more pestilent than a déep wit, no such prey for the Devil as a great wit unsanctified. Now when it comes to this, y<seg rend="sup">•</seg> they fight against God with the weapon he hath given them, when with those the Psalmist speaks of▪ <hi>Psal.</hi> 73. 9. They set their Mouth against Heaven, and
+<pb facs="tcp:151206:9"/> are like an unruly Iade that being full fed kicks at his Master, what course doth the Lord take with them? Read but that parable, <hi>Luk. 19. 24. John</hi> 7. 17. and it will inform you, for to him that useth his talent of Knowledge well, he giveth more, but to them which use not their knowledge well; much more if they abuse it, he taketh away that which he had formerly given them: I will turn the wise men backward, and make their knowledge foolishness, saith the Lord, <hi>Isa.</hi> 44. 25. He taketh the wise in their own craftinesse, <hi>and the counsel of the wicked is made foolish, Job</hi> 5. 13. and most just it is, y<seg rend="sup">t</seg> they who want grace should want wit too. But further, These great Knowers, &amp; wise men, are so far from de<g ref="char:EOLhyphen"/>siring soul-wisdom, &amp; saving knowledge, to the ends before specified, that they do not at all desire it, for y<seg rend="sup">t</seg> it suits not with their Condition, for natural men desire only humane &amp; mundane knowledge, spi<g ref="char:EOLhyphen"/>ritual men, y<seg rend="sup">t</seg> which is heavenly &amp; super<g ref="char:EOLhyphen"/>natural, &amp; the reason why they desire it not, is for y<seg rend="sup">t</seg> they know it not. A man de<g ref="char:EOLhyphen"/>sireth not y<seg rend="sup">•</seg> he knoweth not, neither are unknown evils feared, saith <hi>Chrisostom;</hi> wherefore y<seg rend="sup">e</seg> work of regeneration begins
+<pb facs="tcp:151206:9"/> at Illumination, <hi>Act. 26. 16. Col.</hi> 1. 13. Now acording as men are wise, they prize &amp; value this wisdom, &amp; endeavour to obtain it, <hi>Prov.</hi> 18. 15. and so on y<seg rend="sup">e</seg> contrary; according as men are ignorant &amp; blockish, they undervalue and disestéem it, hate it, &amp; are prejudic'd against it, &amp; hereupon carnal men being blinded by y<seg rend="sup">e</seg> Prince of darkness, together with their own wickedness, and being of a reprobate judge<g ref="char:EOLhyphen"/>ment, do most usually term and estéem this Soul-wisdom, this Divine, spiritual, experi<g ref="char:EOLhyphen"/>mental, &amp; saving knowledge to be méer fool<g ref="char:EOLhyphen"/>ishness, or madness, <hi>Wisd.</hi> 5. 3, to 9. &amp; the pro<g ref="char:EOLhyphen"/>fessors thereof to be fools &amp; madmen; <hi>Elisha</hi> was counted no better, 2 <hi>King.</hi> 9. 11. &amp; the rest of y<seg rend="sup">e</seg> Prophets, <hi>Hos. 9. 7.</hi> &amp; <hi>Paul, Act.</hi> 26. 20. &amp; all the Apostles, 1 <hi>Cor.</hi> 4. 10. yea, our Saviour Christ himself, with open mouth was pro<g ref="char:EOLhyphen"/>nounced mad by his carnal hearers, <hi>Jo. 10. 20. Mar.</hi> 3. 21. to worldly men, Christian wisdom séems folly, saith <hi>Gregory,</hi> &amp; well it may, for even the wisdom of God is foolishness with y<seg rend="sup">e</seg> world, 1 <hi>Cor.</hi> 1. 18. therefore no disparagement to Gods servants, if the wise men, &amp; polititi<g ref="char:EOLhyphen"/>ans of y<seg rend="sup">e</seg> world repute them fools: nor any ho<g ref="char:EOLhyphen"/>nour to such Sensualists y<seg rend="sup">t</seg> so repute them. However, to give such men their due, we grant y<seg rend="sup">t</seg> in some kind of skill they outstrip the best of Gods people; who if they are put to it, may answer as <hi>Themistocles</hi> did, when one
+<pb facs="tcp:151206:10"/> invited him to touch a Lute, for as he said, <hi>I cannot fiddle, but I can make a smal town, a great state:</hi> so y<seg rend="sup">e</seg> godly may say, <hi>We cannot give a solid reason in nature, why Nilus should overflow only in the sum<g ref="char:EOLhyphen"/>mer, when waters are at the lowest: why the Loadstone should draw Iron, or incline to the polestar, why a flash of Lightning should melt the Sword; without making any impression in the Scabard: kill the Child in the womb, and never hurt the mother: how the Waters should stand upon a heap, and yet not overflow the earth: why the clouds above being heavy with water, should not fall to the earth sudainly, seeing every heavy thing descendeth, except the reason which God giveth, Gen. 1. 6. Iob 38. 8, to 12. Psa 104. 9. But we know the Mystery of the Gospel, and what it is to be born anew, and can give a solid reason of our faith; we know that God is reconciled to us, the Law satisfied for us, our sins pardoned, our souls acquited, and that we are in sa<g ref="char:EOLhyphen"/>vour with God, which many of these with their great Learning, do not know, and thus the godly are proved wiser then the wisest Humanist that wants Grace.</hi>
+            </p>
+            <p>You have likewise the reasons why these great knowers know nothing, yet as they might and ought to know.</p>
+            <p>First, because they are mistaken in the thing, they take speculative knowledge for soul-wisdom, and soul-saving knowledge to be foolishness and madness: now if a m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n take his aim amiss, he may shoot long enough ere he hit the mark, and these men are as one that is gone a good part of his journey, but must come back again, because he hath mistaken his way. Secondly, Because they are unregenerate, and want the Eye of Faith. Thirdly, For that they seek not to God for it, who is the giver there<g ref="char:EOLhyphen"/>of, and without whose spirit there is no attaining it. Fourthly, Because they are proud, and so seek not after it, suposing they have it already. Fifthly, Because if they
+<pb facs="tcp:151206:10"/> had never so much knowledge, they would be never the holier or the better for it, but rather the worse: nor would they imploy it to the honour of God, or the good of others. Sixthly, because they either do or would do mischief, instead of good, with their knowledge. Sevently, because they will not consult with the word about it, nor advise with others that have already at<g ref="char:EOLhyphen"/>tained to it: or thus, they read and hear the Scriptures, but mind not (I mean) the spirituality of the word, or mind, and understand not, or understand and remember not, or remember and practice not. No, this they intend not: of the rest: and they that are unwiling to obey, God thinks unworthy to know. When the Serpent taught knowledge, he said, if ye eat the forbiden fruit, your eyes shall be opened, and ye shall know good and evil: but God teacheth another lesson, and saith, if ye will not eat the forbiden fruit, your eyes shall be opened, and ye shall know good and evil. Ro. 12. 12. Ps. 119 97, to 100. or if you do eat, you shall be like Images that have ears but cannot hear, Rom. 11. 8. Isa. 6. 10. Mat. 13. 14.</p>
+            <p>From all which reasons we may collect that there are but a few amongst us that are wise indéed, &amp; to purpose, for these seven hindrances are apliable to 77 parts of men in y<seg rend="sup">e</seg> Nation.</p>
+            <p>Besides, if these great knowers know so little, how ignorant are the rude rable, that despise all knowledge? nor can it be denied but all Impenitent persons who prefer their profits and pleasures before pleasing of God are errant fools, for if they were wise saith Bernard, they would foresee the torments of Hell, and prevent them: and so wise are the godly, for they prefer Grace and Glory, and Gods favour, before ten thousand worlds.</p>
+            <p>Now if any be desirous to get this spiritual, and expe<g ref="char:EOLhyphen"/>rimental knowledge, this divine and supernatural wis<g ref="char:EOLhyphen"/>dom, let them observe these five Rules.</p>
+            <p>First, let such a soul resolve to practice what he doth
+<pb facs="tcp:151206:11"/> already know, or shall hereafter be acquainted with, from the word of God and Christs faithful Messengers, for he that will do my Fathers will, saith our Saviour, shall know the Doctrine, whether it be of God or no, Joh. 7. 17. A good understanding have all they that keep the Commandments, saith Holy David, Psa. 111. 10. and proves it true by his own example and experience. I understood, saith he, more then the Antient, and become wiser then my Teachers, because I kept thy Precepts, Psa. 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. 97, to 100. To a man that is good in his sight, God giveth knowledge and wisdom, Eccles. 2. 26. The spiritual man understandeth all things, 1 Cor. 2. 15. Wicked men understand not judgement, but they that seek the Lord, understand all things, Prov. 28. 5. Admi<g ref="char:EOLhyphen"/>rable encouragements for men to become godly and conscientious: I mean practical Christians.</p>
+            <p>Secondly, if thou wouldst get this precious grace of saving knowledge, the way is to be frequent in hearing the word preached, and to become studious in the Scriptures, for they, and they alone, make wise to salva<g ref="char:EOLhyphen"/>tion, 2 Tim. 3. 15. Ye err, saith our Saviour, not know<g ref="char:EOLhyphen"/>ing the Scriptures, Mat. 22. 29. We must not in the search of heavenly matters either do as we see others do, nei<g ref="char:EOLhyphen"/>ther must we follow the blind guide, carnal reason, or the deceitful guide, our corrupt hearts, but the unde<g ref="char:EOLhyphen"/>ceiveable and infallible guide of Gods word, which is truth it self; and great need there is, for as we cannot perceive the foulness of our faces, unless it be told us, or we take a Glass and look our selves therein, so neither can we see the blemishes of our souls, which is a nota<g ref="char:EOLhyphen"/>ble degree of <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piritual wisdome; but either God must make it known to us by his spirit, or we must collect the same out of the Scripture that celestial glass, though this also must be done by the spirits help: Therefore,</p>
+            <p>Thirdly, If thou wilt be soul-wise and truly profit by studying the Scriptures, be frequent &amp; fervent in pray<g ref="char:EOLhyphen"/>er to God who is the only giver of it for the direction
+<pb facs="tcp:151206:11"/> of his holy Spirit, for first humble and faithful prayer ushered in by meditation is the cure of all obscurity, e<g ref="char:EOLhyphen"/>specially being accompanied with fervour and fer<g ref="char:EOLhyphen"/>vency: as you may see, Math. 21. 22. If any want wisdom saith Sr. James let him ask of God who giveth to all men liberally, and reproacheth no man, and it shall be given him, Jam. 1. 5. Mark the words, it is said, if any, wherefore let no man deny his soul this comfort, again ask and have▪ it cannot come on easier terms, yea God seems to like this suit so well in Solomon, as if he were beholding to his Creature for wishing well to it self. And in vain do we e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect that alms of grace, for which we do not so much as beg, but in praying for wisdome do not pray for it without putting difference, desire not so much brain knowledge as to be soul-wise, and then you will imploy your wisdome to the glory of the giver. Let thy hearts desire be to know God in Christ, Christ in faith, faith in good works, to know Gods will that thou mayst do it, &amp; before the knowledge of all o<g ref="char:EOLhyphen"/>ther things, desire to know thy self▪ and in thy self, not so much thy strength as thy weakness, pray that thine heart may serve thee as a commentary to help thee, un<g ref="char:EOLhyphen"/>derstand such points of Religion as are most needful &amp; necessary, and that thy life may be an exposition of thy inward man, that there may be a sweet harmony be<g ref="char:EOLhyphen"/>twi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Gods word, thy Judgment, &amp; whole conversation, that what the natural man knoweth by roat thou mayst double by feeling the same in thine heart &amp; affections; as indeed e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>perimental and saving knowledge is no less felt then known, and I cannot tell how it comes, rather out of the abundance of the heart, than by e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tream study, or rather is sent by God unto good men, like the Ram that was brought to Abraham, when he would have Sacrifized his Son Isaac. When Christ taught in the Temple, they asked, how knoweth this man the Scriptures, seeing he never learned them? So it is a won<g ref="char:EOLhyphen"/>der what Learning some men have, that have no learn<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:151206:12"/> like Priscilla and Aquila, poor Tentmakers, wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were able to School Apollos that great Clerk, a ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> renowned for his Learning. What can we say to it, fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no other reason can be given, but as Christ said▪ Father<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so it pleaseth thee. For as Jacob said of his Venison when his father asked how he came by it so suddainly▪ because the Lord thy God brought it suddainly int<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my hands; So Holy and Righteous men do more easily understand the words of God, than the wicked, because God brings the meaning suddainly to their hearts. As we read, Luk, 24. Prov. 1. 23. Psa. 25. 14. Dan. 12. 10. Luk. 8. 10. Mar. 3. 11. Again, it is not enough to pray, except also it be in Christs name, and according to his will, believing to be heard for his sake, and that it be the intercession of Gods own Spirit in you, and being tru<g ref="char:EOLhyphen"/>ly sensible of your sins and wants, that you chiefly pray for the pardon of sin, the effusion of grace, and for the assistance of Gods Spirit, that you may more Firmly believe more <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oundly repent, more zealously do, more pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iently suffer, and more constantly persevere in the practise and profession of every duty▪ but above all yo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> must know that as Sampsons Companions could never have found out his Ridle, if they had not plowed with his Hefer, so no man can know the Secrets of God, but by the Revelation of his Spirit, 1 Cor. 12. 8. Mat. 16. 17. Yea, Suppose a man be not inferiour to Portius or P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thagoras, who kept all things in memory that ever they had read▪ heard, or seen. To Virgil, of whom it is report<g ref="char:EOLhyphen"/>ed, that if all Sciences were loft they might be found a<g ref="char:EOLhyphen"/>gain in him. To Aben Ezra, of whom it is said, that if Knowledge had put out her Candle, at his Brain she might light it again, and that his head was a Throne of wisdom. Or Josephus Scaliger, who was Skilled in 30 Languages: yet if he want the Spirit of God to be his Teacher, he is a Dunce to the meanest and most Illite<g ref="char:EOLhyphen"/>rate Believer. For one necessary and excellent Preroga<g ref="char:EOLhyphen"/>tive of the Spiritual Man, is this: He hath God for his
+<pb facs="tcp:151206:12"/> Teacher, he learns the Councels of God, of tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit which only knows Gods Councels▪ Luk. 21. 15. Which is no small priviledge, for the Scholar learns quickly when the Holy Ghost is his Teacher. The eye <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ees di<g ref="char:EOLhyphen"/>stinctly when the Holy Ghost doth enlighten it, with the spirits help, the means can never be too weak, with<g ref="char:EOLhyphen"/>out, never strong enough, Luke 24. 44, 45.</p>
+            <p>Fourthly, Thou must get an humble conceit of thine own wisdom. The First step to Knowledge, is to know our own ignorance. We must become fools in our own opinion, before we can be truly wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; as the Apostle sets it down, 1 Cor. 3. 18. And indeed the opinion of over-knowing, is one of the greatest causes of our Knowing so little, for what we presume to have attain<g ref="char:EOLhyphen"/>ed, we seek not after; yea, the very First Lesson of a Christian is Humility; He will teach the humble his way, <hi>Psa. 25. 9. Jam.</hi> 4. 6. <hi>And he that hath not learned the first lesson, is not fit to take out a<g ref="char:EOLhyphen"/>new: Pride is a great let to true wisdom,</hi> Jam. 4. 6. <hi>Whence it comes to pass, that few proud wits are reformed,</hi> Joh. 9. 39. <hi>And for this cause also did our Saviour propound his woes to the</hi> Pharisees <hi>his Doctrines to the people. A heart full of Pride, is like a vessel full of ayr. This self opinion must be first blown out of us, before Saving knowledge will be poured into us, Christ wil know none but y<seg rend="sup">e</seg> humble, &amp; none but humble souls truly know Christ: now y<seg rend="sup">e</seg> way to become humble is to take a serious view of our wants. The peacoks pride is much abated when she looks on the blackness of her legs &amp; féet: now sup<g ref="char:EOLhyphen"/>pose we know never so much, yet y<seg rend="sup">t</seg> which we
+<pb facs="tcp:151206:13"/> know is far less then y<seg rend="sup">t</seg> which we are ign<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rant of, &amp; the more we know, y<seg rend="sup">e</seg> more we kno<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we want,</hi> Pro. 1. 5, 7. <hi>and the less sensible <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are of our blindness, sickness, deformity, &amp;<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the more blind, sick, and deformed we are.</hi>
+            </p>
+            <p>Fifthly, Thou must labour to get a true and live faith, for as without faith we cannot please God, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without Faith no man can Know God. <hi>Faith <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> clearly beholds those things which are h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> both from y<seg rend="sup">e</seg> eye of sense, &amp; the eye of reaso<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Joh. 12. 46. <hi>Vnregenerate men y<seg rend="sup">t</seg> want fai<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> are like</hi> Sampson <hi>without his guide, or li<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Polyphemus, <hi>who never had but one eye, a<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that</hi> Ulisses <hi>put out, for so doth the pleasure<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> custom of sin blind y<seg rend="sup">e</seg> sensua<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist: we must hav<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> minds lifted above nature, to sée &amp; love thing<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> above nature; heavenly Wisdom, to sée hea<g ref="char:EOLhyphen"/>venly Truth; or else y<seg rend="sup">e</seg> Truth which is savin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> will be to us a mystery,</hi> Mark 4. 11. <hi>if it sée<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not foolishness,</hi> 1 Cor. 2. 7, 8. <hi>To them y<seg rend="sup">t</seg> ar<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> lost the Gospel is hid,</hi> 2 Cor. 4. 3, 4. <hi>Where<g ref="char:EOLhyphen"/>as the Believer discerns all things, even th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> déep things of God,</hi> 1 Cor. 2. 10. <hi>Yea, G<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> giveth him a mouth &amp; wisdom, against whic<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all his Adversaries shall not be able to spea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or resist,</hi> Luk. 21. 15.</p>
+            <p>These are the Five steps that lead us to th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Palace of Wisdom, which all must ascend b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that mean to enter. Therefore consider seri<g ref="char:EOLunhyphen"/>ously what hath béen said, &amp; the Lord give yo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> understanding in all things.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
